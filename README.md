@@ -20,12 +20,12 @@ pip install -r requirements.txt
 
 3. Data Files
 The project uses three main data files:
-adj_price.csv: Adjusted close prices for approximately 471 S&P 500 stocks from July 1, 2019, to June 30, 2020.
-Market capitalization data (sourced from CRSP).
-Other supplemental data files as needed for advanced portfolio strategies.
+(1). adj_price.csv: Adjusted close prices for approximately 471 S&P 500 stocks from July 1, 2019, to June 30, 2020.
+(2). Market capitalization data (sourced from CRSP).
+(3). Other supplemental data files as needed for advanced portfolio strategies.
 
 ## Usage
-1. Open the Jupyter Notebook (a1.ipynb) in the project directory.
+1. Open the Jupyter Notebook in the project directory.
 2. Follow the instructions within the notebook to execute the analysis. The notebook is divided into sections corresponding to each question and analysis type:
 (1). Analysis of individual stock returns
 (2). Analysis of value-weighted portfolio returns
